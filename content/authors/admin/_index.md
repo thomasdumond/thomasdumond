@@ -82,7 +82,7 @@ skills:
     name: Qualitative epidemiology
     percent: 100
   - description: ''
-    icon: cloud
+    icon: rectangle-list-solid-full
     name: Evidence synthesis
     percent: 100
 

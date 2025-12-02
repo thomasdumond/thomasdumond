@@ -82,7 +82,7 @@ skills:
     name: Qualitative epidemiology
     percent: 100
   - description: ''
-    icon: rectangle-list-solid-full
+    icon: newspaper
     name: Evidence synthesis
     percent: 100
 
@@ -91,38 +91,41 @@ skills:
   color_border: '#f0bf23'
   items:
   - description: ''
-    icon: person-simple-walk
+    icon: arrow-trending-up
     name: Hiking in the Rockies
-    percent: 80
+    percent: 100
   - description: ''
-    icon: cpu-chip
-    name: Building Custom PCs
-    percent: 90
+    icon: bug-ant
+    name: Fish, crustaceans and shellfish sampling
+    percent: 100
   - description: ''
     icon: book-open
     name: Sci-Fi Reading
-    percent: 70
+    percent: 100
   name: Hobbies
+
 status:
-  icon: 🚀
+  icon: 🐟🐟🐟
 superuser: true
 title: Thomas Dumond
+
 work:
-- company_name: Meta AI
-  company_url: https://ai.meta.com/
+- company_name: The University of Adelaide, School of Animal and Veterinary Sciences
+  company_url: https://set.adelaide.edu.au/animal-veterinary-sciences/
   date_end: ''
-  date_start: '2020-01-01'
+  date_start: '2024-02-12'
   icon: ''
-  position: Senior AI Research Scientist
-  summary: Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-- company_name: OpenAI
-  company_url: https://openai.com/
-  date_end: '2019-12-31'
-  date_start: '2019-06-01'
+  position: PhD candidate
+  summary: Evidence-based veterinary medicine
+
+- company_name: Vet'Eau
+  company_url: https://veteau.fr/en/
+  date_end: '2023-03-01'
+  date_start: '2020-10-20'
   icon: ''
-  position: AI Research Intern
+  position: Aquatic Veterinarian
   summary: |
-    Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    Aquaculture farm health management support, pathological investigations, internal diagnostic laboratory management.
 ---
 
 Thomas Dumond is an aquatic veterinarian and epidemiologist.

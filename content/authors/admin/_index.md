@@ -44,7 +44,7 @@ education:
   icon: ''
   institution: MIT
   summary: 'GPA: 3.9/4.0\n\nMinored in Mathematics. President of AI Club.\n'
-first_name: Alex
+first_name: Thomas
 highlight_name: true
 interests:
 - Large Language Models
@@ -64,11 +64,11 @@ organizations:
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:alex.johnson@meta.com
+  url: mailto:thomas.dumond@adelaide.edu.au
 - icon: brands/x
   url: https://x.com/AlexAIResearch
 - icon: brands/github
-  url: https://github.com/alexjohnsonai
+  url: https://github.com/thomasdumond
 - icon: brands/linkedin
   url: https://www.linkedin.com/in/alexjohnsonai/
 - icon: academicons/google-scholar
@@ -111,7 +111,7 @@ skills:
 status:
   icon: 🚀
 superuser: true
-title: Alex Johnson
+title: Thomas Dumond
 work:
 - company_name: Meta AI
   company_url: https://ai.meta.com/
@@ -130,4 +130,4 @@ work:
     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Thomas Dumond is an aquatic veterinarian and epidemiologist.

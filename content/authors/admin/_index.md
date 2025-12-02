@@ -78,7 +78,7 @@ skills:
     name: R
     percent: 100
   - description: ''
-    icon: cliboard-question
+    icon: chat-bubble-left-ellipsis
     name: Qualitative epidemiology
     percent: 100
   - description: ''

@@ -1,0 +1,26 @@
+---
+title: Hi Thomas
+author: ''
+date: '2025-12-02'
+slug: []
+categories: []
+tags: []
+---
+
+
+```{r}
+summary(Orange)
+```
+blopblop
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```

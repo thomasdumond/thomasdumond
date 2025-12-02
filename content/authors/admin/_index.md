@@ -7,6 +7,7 @@ awards:
      Highest score over 80% at the ANZCVS epidemiology examination.
   title: Chris Baldock Memorial Award
   url: https://www.anzcvs.org.au/chapters/epidemiology+chapter
+
 education:
 - area: PhD in veterinary epidemiology
   button:
@@ -30,6 +31,7 @@ education:
   icon: ''
   institution: Ecole Nationale Veterinaire de Toulouse
   summary: General practice veterinary studies.
+
 first_name: Thomas
 highlight_name: true
 interests:

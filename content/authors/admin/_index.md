@@ -7,7 +7,6 @@ awards:
      Highest score over 80% at the ANZCVS epidemiology examination.
   title: Chris Baldock Memorial Award
   url: https://www.anzcvs.org.au/chapters/epidemiology+chapter
-
 education:
 - area: PhD in veterinary epidemiology
   button:
@@ -19,21 +18,18 @@ education:
   institution: The University of Adelaide
   summary: |
     Thesis on the surveillance and control of White Spot Disease in farmed prawns in Australia.
-
 - area: MSc Aquatic Veterinary Studies
   date_end: '2020-08-31'
   date_start: '2019-09-01'
   icon: ''
   institution: The University of Stirling
   summary: Pathology in aquatic farmed animals. Master thesis focused on reviewing the literature to compare advancements of environmental enrichment in intensive terrestrial to aquatic animal farming.
-
 - area: Doctor of Veterinary Medicine (DVM)
   date_end: '2015-09-01'
   date_start: '2020-10-20'
   icon: ''
   institution: Ecole Nationale Veterinaire de Toulouse
   summary: General practice veterinary studies.
-  
 first_name: Thomas
 highlight_name: true
 interests:
@@ -41,13 +37,11 @@ interests:
 - Epidemiology
 - Evidence synthesis
 - Disagnostic testing
-
 languages:
 - name: French
   percent: 100
 - name: English
   percent: 100
-  
 last_name: Johnson
 name_pronunciation: ''
 organizations:

@@ -48,7 +48,7 @@ languages:
   percent: 100
 
 last_name: Dumond
-name_pronunciation: '[toma dymɔ̃]'
+name_pronunciation: '[toma] [dymɔ̃]'
 
 organizations:
 - name: The University of Adelaide, School of Animal and Veterinary Sciences

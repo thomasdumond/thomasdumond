@@ -48,41 +48,44 @@ languages:
   percent: 100
 
 last_name: Dumond
-name_pronunciation: '[dymɔ̃]'
+name_pronunciation: '[toma dymɔ̃]'
 
 organizations:
-- name: Meta AI
-  url: https://ai.meta.com/
+- name: The University of Adelaide, School of Animal and Veterinary Sciences
+  url: https://set.adelaide.edu.au/animal-veterinary-sciences/
+
 profiles:
 - icon: at-symbol
   label: E-mail Me
   url: mailto:thomas.dumond@adelaide.edu.au
-- icon: brands/x
-  url: https://x.com/AlexAIResearch
 - icon: brands/github
   url: https://github.com/thomasdumond
 - icon: brands/linkedin
-  url: https://www.linkedin.com/in/alexjohnsonai/
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/citations?user=alexjohnson
+  url: https://www.linkedin.com/in/thomas-dumond-9231aa10a/
+#- icon: academicons/google-scholar
+#  url: https://scholar.google.com/citations?user=alexjohnson
 - icon: academicons/orcid
-  url: https://orcid.org/0000-0002-1825-0097
+  url: https://orcid.org/0000-0002-9427-8649
+
 pronouns: he/him
-role: Senior AI Research Scientist
+
+role: PhD candidate
+
 skills:
 - items:
   - description: ''
     icon: code-bracket
-    name: Python & PyTorch
-    percent: 95
+    name: R
+    percent: 100
   - description: ''
-    icon: chart-bar
-    name: Machine Learning
+    icon: cliboard-question
+    name: Qualitative epidemiology
     percent: 100
   - description: ''
     icon: cloud
-    name: Cloud Computing (AWS/GCP)
-    percent: 85
+    name: Evidence synthesis
+    percent: 100
+
   name: Technical Skills
 - color: '#eeac02'
   color_border: '#f0bf23'

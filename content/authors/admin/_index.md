@@ -34,18 +34,22 @@ education:
 
 first_name: Thomas
 highlight_name: true
+
 interests:
 - Aquaculture
 - Epidemiology
 - Evidence synthesis
 - Disagnostic testing
+
 languages:
 - name: French
   percent: 100
 - name: English
   percent: 100
-last_name: Johnson
-name_pronunciation: ''
+
+last_name: Dumond
+name_pronunciation: '[dymɔ̃]'
+
 organizations:
 - name: Meta AI
   url: https://ai.meta.com/

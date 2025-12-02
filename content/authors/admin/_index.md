@@ -1,61 +1,53 @@
 ---
 awards:
-- awarder: NeurIPS
-  date: '2022-12-01'
+- awarder: Australian and New Zealand College of Veterinary Scientists (epidemiology chapter)
+  date: '2025-07-22'
   icon: hero/trophy
   summary: |
-    Awarded for groundbreaking work on efficient training of large models.
-  title: Best Paper Award
-  url: https://neurips.cc/
-- awarder: National Science Foundation
-  date: '2021-06-15'
-  icon: hero/currency-dollar
-  summary: |
-    $500,000 grant for research in ethical AI development.
-  title: AI Innovation Grant
-  url: https://www.nsf.gov/
-- awarder: Stanford University
-  date: '2019-06-30'
-  icon: hero/academic-cap
-  summary: |
-    Recognized for contributions to scaling laws in deep learning.
-  title: Outstanding PhD Thesis
-  url: https://www.stanford.edu/
+     Highest score over 80% at the ANZCVS epidemiology examination.
+  title: Chris Baldock Memorial Award
+  url: https://www.anzcvs.org.au/chapters/epidemiology+chapter
+
 education:
-- area: PhD Computer Science (AI Focus)
+- area: PhD in veterinary epidemiology
   button:
     text: Read Thesis
     url: https://example.com/thesis.pdf
-  date_end: '2019-06-30'
-  date_start: '2015-09-01'
+  date_end: 'present'
+  date_start: '2024-02-12'
   icon: ''
-  institution: Stanford University
+  institution: The University of Adelaide
   summary: |
-    Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-- area: MS Computer Science
-  date_end: '2015-05-31'
-  date_start: '2013-09-01'
+    Thesis on the surveillance and control of White Spot Disease in farmed prawns in Australia.
+
+- area: MSc Aquatic Veterinary Studies
+  date_end: '2020-08-31'
+  date_start: '2019-09-01'
   icon: ''
-  institution: Carnegie Mellon University
-  summary: 'GPA: 4.0/4.0\n\nSpecialized in machine learning and robotics.\n'
-- area: BS Computer Science
-  date_end: '2013-05-31'
-  date_start: '2009-09-01'
+  institution: The University of Stirling
+  summary: Pathology in aquatic farmed animals. Master thesis focused on reviewing the literature to compare advancements of environmental enrichment in intensive terrestrial to aquatic animal farming.
+
+- area: Doctor of Veterinary Medicine (DVM)
+  date_end: '2015-09-01'
+  date_start: '2020-10-20'
   icon: ''
-  institution: MIT
-  summary: 'GPA: 3.9/4.0\n\nMinored in Mathematics. President of AI Club.\n'
+  institution: Ecole Nationale Veterinaire de Toulouse
+  summary: General practice veterinary studies.
+  
 first_name: Thomas
 highlight_name: true
 interests:
-- Large Language Models
-- Computer Vision
-- Reinforcement Learning
-- AI Ethics
+- Aquaculture
+- Epidemiology
+- Evidence synthesis
+- Disagnostic testing
+
 languages:
+- name: French
+  percent: 100
 - name: English
   percent: 100
-- name: Spanish
-  percent: 50
+  
 last_name: Johnson
 name_pronunciation: ''
 organizations:

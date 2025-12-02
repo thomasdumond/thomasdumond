@@ -12,7 +12,7 @@ education:
   button:
     text: Read Thesis
     url: https://example.com/thesis.pdf
-  date_end: 'present'
+#  date_end: '2027-08-12'
   date_start: '2024-02-12'
   icon: ''
   institution: The University of Adelaide

@@ -105,7 +105,7 @@ skills:
   name: Hobbies
 
 status:
-  icon: 🐟🐟🐟
+  icon: 🐟
 superuser: true
 title: Thomas Dumond
 

@@ -20,10 +20,9 @@ event: Proaqua Australian Prawn Farmers Symposium 2025
 event_url: https://apfa.com.au/events-proaqua-apfa-symposium/
 featured: false
 image:
-  caption: apfa_picture_talk
+  caption: APFA Thomas Dumond 2025
   focal_point: Right
-  src: "C:/Users/a1224158/thomasdumond/content/events/example/apfa_picture_talk.jpeg"
-  
+
 links:
 - type: slides
   url: https://apfa.com.au/wp-content/uploads/2025/08/Thomas-Dumond.pdf
@@ -34,7 +33,7 @@ projects:
 - example
 publishDate: '2017-01-01T00:00:00Z'
 slides: ''
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: The use of pond-side tests in prawn farming.
 tags: []
 
 title: Pond-side testing is unfit for disease investigation, isn’t it?

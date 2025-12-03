@@ -1,48 +1,40 @@
 
 
-# ---
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
-# address:
-#   city: Stanford
-#   country: United States
-#   postcode: '94305'
-#   region: CA
-#   street: 450 Serra Mall
-# all_day: false
-# authors:
-# - admin
-# date: '2030-06-01T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# event: Hugo Blox Builder Conference
-# event_url: https://example.org
-# featured: false
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
-# links:
-# - type: code
-#   url: https://github.com
-# - type: slides
-#   url: https://slideshare.net
-# - type: video
-#   url: https://youtube.com
-# location: Hugo Blox Builder HQ
-# projects:
-# - example
-# publishDate: '2017-01-01T00:00:00Z'
-# slides: ''
-# summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-# tags: []
-# title: Example Talk
-# ---
-# 
-# > [!NOTE]
-# > Click on the **Slides** button above to view the built-in slides feature.
-# 
-# Slides can be added in a few ways:
-# 
-# - **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using the `slides` parameter in the front matter of the talk file
-# - **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
-# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-# 
-# Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+---
+abstract: Effective management of transmissible diseases in farmed prawns requires early detection and accurate diagnosis, yet clinical and contextual cues often appear only once outbreaks grow. Pond-side tests (PSTs) could shorten time-to-response but are restricted for notifiable diseases. Our systematic review identified 52 articles describing 94 detection protocols for white spot syndrome virus, of which 22 were farm-feasible. Evidence focused largely on developing new detection methods, but not much on the field diagnostic accuracy of available detection tests. PSTs appear valuable for early response and complementary to official diagnostic confirmatory tests but need stronger diagnostic accuracy evidence.
+
+address:
+  city: Brisbane
+  country: Australia
+  postcode: '4000'
+  region: QLD
+  street: Lawson Ballroom, Amora Hotel Brisbane, 200 Creek Street
+
+all_day: false
+
+authors:
+- admin
+date: '2025-08-06T16:25:00Z'
+date_end: ''
+event: Proaqua Australian Prawn Farmers Symposium 2025
+event_url: https://apfa.com.au/events-proaqua-apfa-symposium/
+featured: false
+image:
+  caption: apfa_picture_talk
+  focal_point: Right
+  src: "C:/Users/a1224158/thomasdumond/content/events/example/apfa_picture_talk.jpeg"
+  
+links:
+- type: slides
+  url: https://apfa.com.au/wp-content/uploads/2025/08/Thomas-Dumond.pdf
+
+location: Amora Hotel Brisbane
+
+projects:
+- example
+publishDate: '2017-01-01T00:00:00Z'
+slides: ''
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+tags: []
+
+title: Pond-side testing is unfit for disease investigation, isn’t it?

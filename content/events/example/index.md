@@ -38,3 +38,4 @@ summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 tags: []
 
 title: Pond-side testing is unfit for disease investigation, isn’t it?
+---
